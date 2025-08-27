@@ -1,9 +1,21 @@
-.Principal{
+h1{
+    color: aliceblue;
+}
+.Total{
     width: 100%;
+    height: 99v;
+    display: flex;
+    justify-content: center;
+}
+.Principal{
+    width:500px;
     height: 99vh;
+    background-color: #48426D;
    display: flex;
+   border-radius: 40px;
    align-items: center;
    justify-content: center;
+   flex-direction: column;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
     
 }
@@ -12,7 +24,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color:  #07385f;
+    background-color:  #f0c38e;
     
     width: 400px;
     height: 300px;
@@ -21,11 +33,11 @@
     
 }
 .Opciones a{
-    color: antiquewhite;
+    color: #48426D;
     font-size: 60px;
     font-weight: bold;
     text-decoration: none;
 }
 .Opciones a:hover{
-    color:rgb(244, 248, 5)
+    color:rgb(255, 255, 255)
 }

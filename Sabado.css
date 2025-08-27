@@ -1,10 +1,12 @@
 body{
   display: flex;
   justify-content: center;
-    
+    ;
     
 }
 .Contenedor{
+   
+    margin-top: 40px;
    background-color: #FFD447;
    width: 350px;
    border-radius: 20px;
